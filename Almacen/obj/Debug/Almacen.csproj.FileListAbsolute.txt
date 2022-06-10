@@ -1,0 +1,13 @@
+c:\users\juancho\documents\visual studio 2015\Projects\Almacen\Almacen\bin\Debug\Almacen.exe.config
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\bin\Debug\Almacen.exe
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\bin\Debug\Almacen.pdb
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\bin\Debug\MySql.Data.dll
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.csprojResolveAssemblyReference.cache
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.frmAcceso.resources
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.Properties.Resources.resources
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.csproj.GenerateResource.Cache
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.exe
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.pdb
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.frmMenuPrincipal.resources
+C:\Users\Juancho\Documents\Visual Studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.frmProductos.resources
+C:\Users\Juancho\documents\visual studio 2015\Projects\Almacen\Almacen\obj\Debug\Almacen.frmFacturacionVentas.resources
